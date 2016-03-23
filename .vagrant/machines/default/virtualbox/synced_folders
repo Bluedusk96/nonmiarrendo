@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/nonmiarrendo":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/nonmiarrendo","hostpath":"C:/Users/SEVEN/Documents/GitHub/nonmiarrendo","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/SEVEN/Documents/GitHub/nonmiarrendo","disabled":false}}}
